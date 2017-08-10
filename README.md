@@ -4,7 +4,7 @@ React JS and Redux application
 
   -  **Three Steps to Adding Redux** -  1) Define a redux constant. 2) Add an Action Creator. 3) Amend or Add a Reducer
 
-  - ** Redux Constants** - Constants that allow actions and reducers in redux to listen to the same type to ensure that it recognizes true data.
+  - **Redux Constants** - Constants that allow actions and reducers in redux to listen to the same type to ensure that it recognizes true data.
 
   - **Action Creators**** - methods that create and return actions for reducers to manipulate the redux store.
 
