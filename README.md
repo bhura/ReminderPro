@@ -1,12 +1,12 @@
 # ReminderPro
-React JS and Redux application
+#### React JS and Redux application
   - **Redux** - A JavaScript library which allows React applications to extract their data into one giant store.
 
   -  **Three Steps to Adding Redux** -  1) Define a redux constant. 2) Add an Action Creator. 3) Amend or Add a Reducer
 
   - **Redux Constants** - Constants that allow actions and reducers in redux to listen to the same type to ensure that it recognizes true data.
 
-  - **Action Creators**** - methods that create and return actions for reducers to manipulate the redux store.
+  - **Action Creators** - methods that create and return actions for reducers to manipulate the redux store.
 
    - **Actions** - the plain JavaScript object that Action Creators return. Must include a type parameter with a Redux constant and a certain data payload.
 
